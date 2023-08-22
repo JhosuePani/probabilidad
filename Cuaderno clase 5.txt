@@ -1,0 +1,40 @@
+MEDIDAS DE FORMA
+	-> Forma de la distribucion(centrada, derecha, izquierda), se toma la media y la desviacion estandar basicamente.
+
+Medidas de asimetria: 
+	-> Son especulares
+
+Coeficiente de simetria
+	-> se calcula para la descripcion (simetrica o no)
+	-> normalmente(Cuando tiene la forma de la campana simetrica)
+
+Sesgo cero:
+	-> Distribucion simetrica, espejo, ejemplo: distribuciones normales
+	-> Trazar histograma para darse cuenta
+	-> Media y mediana son iguales
+Sesgo a la derecha:
+	-> Valores atipicos a la derecha pero la concentracion de los datos esta al lado contraria 
+	-> Mediana < Media
+
+CALCULAR LA SIMETRIA POR FORMULA :
+	-> Coeficiente de pearson : As = 3(Media - Mediana) / Desvacion estandar
+
+COEFICIENTE DE BOWLEY :
+	-> Se requiere que los datos de ambos lados tengas una simetria
+
+COEFICIENTE DE ASIMETRIA DE FISHER :
+	-> Si no hay datos normales.
+	-> Desviaciones respecto a la media.
+
+
+
+MEDIDAS DE CURTOSIS
+	-> Dispersion de los datos, que tan dispersos estan los datos
+	-> Tenemos dos fomulas, cuando tenemos los datos agrupados y cuando no
+	-> MARCA DE CLASE = Promedio de el limite superior e inferior 
+
+-> Distribucion mesocurtica (Mas normal)
+-> Distribucion leptocurtica (puntiaguda) si coeficiente de curtosis + 
+-> Distribucion platicurtica (reducido)
+
+-> Se calcula con el coeficiente de fisher
