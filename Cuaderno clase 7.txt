@@ -1,0 +1,11 @@
+Poblacion : Grupo completo en el que se quiere trabajar
+
+muestra : Grupo especifico que cumple unas caracteristicas (necesidad, practicidad, rentabilidad, manejabilidad)
+
+No siempre tienen que ser personas
+
+LIMPIEZA DE DATOS : Hacer lo de las comas con excel, eliminar las filas vacias, ver si hay datos irregulares nu-
+		    mericos o textualeS, Filas duplicadas, Si hay columnas que estan muy vacias eliminarlas, ex-
+		    plore los datos con graficos(cajas, dispersion, histogramas), estadisticas descriptivas para		
+		    cada variable, tablas de frecuencia.
+
